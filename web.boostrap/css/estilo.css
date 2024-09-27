@@ -1,0 +1,32 @@
+/*Sobre escribiendo las hojas de estilo de bootstrap */
+/* Menu*/
+#menu img{
+    width: 200px;
+}
+#menu{
+    background: #185B04 !important;
+}
+#menu a{
+    color: #fff;
+}
+#menu a:hover{
+    color: #fff200;
+}
+
+
+/*Portada*/
+#portada img{
+    max-height: 70vh;
+}
+
+/*Footer= pie de pagina*/
+#pie{
+    background: linear-gradient(180deg, #185B04, #339A14);
+    color: white;
+}
+#derecho{
+    text-align: center;
+    color: black;
+}
+
+
